@@ -1,0 +1,45 @@
+header {
+	background-color: #fef764;
+	height: 240px;
+	text-align: center;
+}
+
+header h1 {
+	font-size: 70px;
+	padding-top: 50px;
+}
+
+header nav a {
+	border: 1px solid black;
+	padding: 20px 150px;
+	background-color: white;
+	border-radius: 50px;
+	text-decoration: none;
+	margin-left: 30px;
+}
+
+footer {
+	background-color: #dad455;
+	height: 100px;
+	text-align: center;
+	clear:both;
+}
+
+footer p {
+	font-size: 50px;
+	padding: 20px 0;
+	text-transform: uppercase;
+}
+
+#left {
+	width: 50%;
+	float: left;
+}
+
+#center {
+	width: 50%;
+	float: right;
+}
+#para3 {
+    color: blue;
+}
